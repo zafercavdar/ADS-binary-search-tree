@@ -1,0 +1,10 @@
+delete Anne Hathaway 0648572102
+Insert Taylor swift 0614334734
+Position name inorder Taylor swift 0614334734
+Display surname postorder
+Display name inorder
+Position surname postorder Taylor swift 0614334734
+display phone preorder
+Position phone preorder Lionel Messi 0159921548
+Delete David Beckham 0222301329
+Display phone inorder
